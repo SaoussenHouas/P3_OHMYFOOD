@@ -1,7 +1,7 @@
 {
-  "name": "P3_OHMYFOOD",
-  "version": "1.0.0",
-  "description": "",
+  "name": "P3_HOUAS_SAOUSSEN",
+  "version": "1.0.3",
+  "description": "Projet P3 - OhMyFood",
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch ./sass/main.scss:style.css"
